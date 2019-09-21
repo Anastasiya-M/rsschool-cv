@@ -1,0 +1,21 @@
+body {
+  width: 1024px;
+  padding: 10px;
+  font-size: 1em;
+  font-family: "Arial", sans-serif;
+  margin: 0px auto;
+  background-image: url(fon.jpg);
+  background-size: cover;
+}
+
+.Summary {
+  text-indent: 20px;
+}
+
+.Experience {
+  text-indent: 20px;
+}
+
+.Education {
+  text-indent: 20px;
+}
